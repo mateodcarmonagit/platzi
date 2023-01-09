@@ -2,12 +2,12 @@
 #cabecera{
 
     padding-left: 4rem;
-    background-color: rgb(67, 57, 255);
+    background-color: rgb(221, 90, 2);
     min-width: 100%;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2rem;
-    color: white;
+    color: rgb(22, 87, 18);
 }
 
 #margin-botom{

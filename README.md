@@ -1,0 +1,2 @@
+# platzi
+Ejercicio de platzi
